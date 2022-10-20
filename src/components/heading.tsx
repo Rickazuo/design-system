@@ -11,7 +11,7 @@ export interface HeadingProps {
 
 export function Heading({ size = 'md', children, asChild, className}: HeadingProps) {
     const Comp = asChild? Slot : 'h2'
-
+//
     return (
         <Comp
         className={clsx(
