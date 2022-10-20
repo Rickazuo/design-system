@@ -1,4 +1,4 @@
-import { Heading } from './components/heading'
+import { Heading } from './components/Heading'
 import { Logo } from './logo'
 import { Text } from './components/Text'
 import './styles/global.css'
